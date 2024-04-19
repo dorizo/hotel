@@ -245,12 +245,6 @@ function printExampleWarningMessage() {
                         <!-- </form> -->
                     </div>
  
-                    <script type="text/javascript">
-                      var payButton = document.getElementById('pay-button');
-                      payButton.addEventListener('click', function () {
-                        window.snap.pay('01999');
-                      });
-                    </script>
                 </div>
             </div>
         </div>

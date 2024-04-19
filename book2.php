@@ -103,7 +103,7 @@ catch (\Exception $e) {
     echo $e->getMessage();
 }
 
-echo "snapToken = ".$snap_token;
+// echo "snapToken = ".$snap_token;
 
 function printExampleWarningMessage() {
     if (strpos(Config::$serverKey, 'your ') != false ) {

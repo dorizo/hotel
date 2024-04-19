@@ -119,7 +119,10 @@
                     </div>
                     
                     <div class="card-footer">
-                        <a id="pay-button" class="w-100 btn btn-lg btn-primary">Bayar Sekarang</a>
+                        <form action="https://transit.mekhaenergy.com/snap/checkout-process.php" method="POST">
+                            <input type="hidden" name="amount" value="94000"/>
+                            <input type="submit" class="w-100 btn btn-lg btn-primary" value="Bayar Sekarang">
+                        </form>
                     </div>
  
                     <script type="text/javascript">

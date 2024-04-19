@@ -231,7 +231,7 @@ function printExampleWarningMessage() {
                             email : ddd@gmail.com<br />
                         </div>
                         <a href="" class="btn btn-dark w-100"><i class="fa fa-calendar-alt me-2"></i>Paket 6 jam <br />04-04-2024 jam 10.00 - 16.00</a>
-                        <div href="" class="mt-2 btn btn-dark w-100"><i class="fa fa-dollar-sign me-2"></i>120.000,00</div>
+                        <div href="" class="mt-2 btn btn-dark w-100"><i class="fa fa-dollar-sign me-2"></i>94.000,00</div>
 
 
                             
